@@ -9,9 +9,11 @@ Dar a conocer las fórmulas necesarias para poder realizar el cálculo estadíst
 
 ## Resultado del Análisis 
 1. Cálculo de IP
+   
  -Se realizó el calculo de IP de las 2 muestras procesadas en el Laboratorio de Genética
 
-2. Se obtivo un IP con un valor de 8.5e7 , es decir de 85, 000, 000
+3. Se obtivo un IP con un valor de 8.5e7 , es decir de 85, 000, 000
+   
  -Este valor se encuentra arriba del umbral de IP.
 
 
