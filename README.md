@@ -8,13 +8,13 @@ Estas fórmulas ya se encuentran validadas.
 Dar a conocer las fórmulas necesarias para poder realizar el cálculo estadístico de Indice de Paternidad.
 
 ## Resultado del Análisis 
-1. Cálculo de IP
+1. Cálculo de **IP**  :family_man_boy:
    
-    -Se realizó el calculo de IP de las 2 muestras procesadas en el Laboratorio de Genética
+    - Se realizó el calculo de IP de las 2 muestras procesadas en el _Laboratorio de Genética_ 🥼
 
-3. Se obtivo un IP con un valor de 8.5e7 , es decir de 85, 000, 000
+3. Se obtivo un IP con un valor de **8.5e7** , es decir de 85, 000, 000
    
-    -Este valor se encuentra arriba del umbral de IP.
+    - Este valor se encuentra arriba del umbral de IP.
 
 
 
