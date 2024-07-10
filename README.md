@@ -18,6 +18,7 @@ Dar a conocer las fórmulas necesarias para poder realizar el cálculo estadíst
 
 
 
+
   ![PI](https://github.com/kclnavarro/MicrosoftExcel/assets/174983887/27e1646d-0d24-4b13-af12-78921063ac06)
 
 ### Código Utilizado en el Análisis
